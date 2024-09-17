@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "3687",
+      "firstname": "Aishat",
+      "lastname": "Adekunle",
+      "email": "aishat@gmail.com",
+      "password": "Devyeesha1"
+    },
+    {
+      "id": "145d",
+      "firstname": "Aishat",
+      "lastname": "Adekunle",
+      "email": "aishat@gmail.com",
+      "password": "Devyeesha1"
+    }
+  ],
+  "product": []
+}
